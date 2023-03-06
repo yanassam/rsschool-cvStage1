@@ -1,9 +1,10 @@
 # *Yana Samoilova*
 ***
 ## Contact information:
+ * **Location:** Wroclaw, Poland 
  * **Phone:** +30666718181 
  * **e-mail:** yanassam81@gmail.com
- * **telegram:** @jana_sam
+ * **GitHub:** yanassam
 
 *** 
 ## About me:
@@ -14,22 +15,17 @@ approach to work. I want to study Front-End development, gain knowledge and skil
 ## Skills:
 * HTML
 * CSS
-* Adobe Photoshop
+* JavaScript (Basic)
 * Git, GitHub
 
 ***
 ## Code example:
 
-```const assert = require("chai").assert;
-
-describe("Multiply", () => {
-  it("fixed tests", () => {
-    assert.strictEqual(multiply(1,1), 1);
-    assert.strictEqual(multiply(2,1), 2);
-    assert.strictEqual(multiply(2,2), 4);
-    assert.strictEqual(multiply(3,5), 15);   
-  });
-});
+```let array = [3, 44, 55, 67];
+        let sum = 0;
+        for (let i=0; i < array.length; i++)
+        sum = sum + array[i];
+    alert( sum );
 ```
 ***
 ## Work experience:
