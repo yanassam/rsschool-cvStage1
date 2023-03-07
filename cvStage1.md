@@ -30,7 +30,7 @@ approach to work. I want to study Front-End development, gain knowledge and skil
     alert( sum );
 
 ```
-
+***
 ## Work experience:
 * IT services sales manager
     + sales of services offered by [Artngraphics.com][df2] to customers in the 3D area
