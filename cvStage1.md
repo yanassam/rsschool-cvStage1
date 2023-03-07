@@ -21,13 +21,16 @@ approach to work. I want to study Front-End development, gain knowledge and skil
 ***
 ## Code example:
 
-```let array = [3, 44, 55, 67];
+```
+    let array = [3, 44, 55, 67];
+
         let sum = 0;
         for (let i=0; i < array.length; i++)
         sum = sum + array[i];
     alert( sum );
+
 ```
-***
+
 ## Work experience:
 * IT services sales manager
     + sales of services offered by [Artngraphics.com][df2] to customers in the 3D area
