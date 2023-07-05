@@ -1,1 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.body {
+    background-color: #ffffff;
+    max-width: 1440px;
+}
+
+.header {
+    padding: 52px 0;
+    max-width: 1440px;
+    background-color: #EDF2EC;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 50px;
+    color: #636060;
+}
+
+.header_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1440px;
+    min-height: 200px;
+    margin: 0 auto;
+    background-color: #a9ecede2;
+    align-items: center;
+
+}
+
+.menu_header {
+    display: flex;
+
+}
+
+.menu_list {
+    display: flex;
+    padding: 10px 0;
+    list-style: none;
+    gap: 40px;
+}
+
+.menu_link {
+    font-size: 18px;
+    color: #636060;
+    font-family: Inika;
+    text-decoration: none;
+}
+
+.main_container {
+    max-width: 1440px;
+    background: #ffffff;
+    margin: 0 auto;
+    display: flex;
+}
+
+.left_column {
+    width: 45%;
+    background-color: #a9ecede2;
+    color: black;
+    padding-left: 60px;
+}
+
+.Line {
+    height: 2px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.line_grey {
+    background-color: #c3bfbf;
+}
+
+.line_blue {
+    background-color: #a9ecede2;
+}
+
+.right_column {
+    width: 55%;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: #f2f1f1;
+}
+
+h2 {
+    padding-top: 40px;
+    font-size: 30px;
+    /* or 175% */
+    color: #636060;
+}
+
+h3 {
+    padding-top: 10px;
+    font-size: 20px;
+    /* or 175% */
+    color: #636060;
+}
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+    color: #636060;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.right_column_container {}
+
+.myfoto {
+    padding-left: 40px;
+}
+
+.education {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    color: #636060;
+}
+
+.work_experience {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    color: #636060;
+}
+
+.code {
+    background-color: #c3bfbf;
+}
+
+.footer {
+    height: 130px;
+    max-width: 1440px;
+    background: #a9ecede2;
+    margin: 0 auto;
+    display: block;
+}
+
+.footer_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 109px;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.footer_git {
+    display: flex;
+    gap: 20px;
+    color: black;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.footer_school {
+    color: black;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 50px;
+}
